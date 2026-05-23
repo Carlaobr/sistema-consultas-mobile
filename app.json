@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Sistema de Consultas",
+    "slug": "sistema-consultas-mobile",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#1565C0"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1565C0"
+      }
+    }
+  }
+}
